@@ -1,4 +1,4 @@
-<h1>Olá, sou Luccas Thiago👋🏿. 
+<h1>Olá, sou Luccas Thiago 🏿. 
 <hr> 
   <br> 
   
