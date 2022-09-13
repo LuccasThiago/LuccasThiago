@@ -4,7 +4,6 @@
   
 - 🌱 Atualmente estou aprendendo a desenvolver sistemas.
 - 📚 Cursando SENAI.
-- 😄 Pronomes: ele/dele.
 - ❤ Apaixonado pela tecnologia.
   
    <div>
