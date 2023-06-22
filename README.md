@@ -3,7 +3,8 @@
   <br> 
   
 - 🌱 Atualmente estou aprendendo a desenvolver sistemas.
-- 📚 Cursando SENAI.
+- 📚 Formado em desenvolvimento sistemas no Senai.
+- 📚 Cursando Ciência da computação na UNIP.
 - ❤ Apaixonado pela tecnologia.
   
    <div>
